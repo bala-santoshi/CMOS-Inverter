@@ -9,11 +9,11 @@ Designed and stimulated a CMOS Inverter using LTspice.
 - Switching behavior
 
 ## Circuit Schematic
-![Circuit](cmos_inverter_circuit.png)
+![Circuit](circuit.png)
 
 
 ## Output Waveform
-![Waveform](cmos_inverter_waveform.png)
+![Waveform](waveform.png)
 
 
 ## Results
